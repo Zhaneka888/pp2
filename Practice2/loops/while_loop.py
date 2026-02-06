@@ -26,4 +26,4 @@ while i < 4:
 i = 1
 while i < 2:
     print(i)
-    i += 1
+    i += 1# Loop examples from W3Schools
