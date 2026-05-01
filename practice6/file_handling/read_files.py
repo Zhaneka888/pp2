@@ -1,0 +1,15 @@
+f = open("demofile.txt", "r")
+print("Using read():")
+print(f.read())
+f.close()
+
+f = open("demofile.txt", "r")
+print("Using readline():")
+print(f.readline())
+print(f.readline())
+f.close()
+
+f = open("demofile.txt", "r")
+print("Using readlines():")
+print(f.readlines())
+f.close()
