@@ -1,6 +1,11 @@
 [
     {
         "name": "Player",
+        "score": 26996,
+        "dist": 22266
+    },
+    {
+        "name": "Player",
         "score": 3406,
         "dist": 2956
     }
